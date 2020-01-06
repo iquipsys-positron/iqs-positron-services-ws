@@ -16,4 +16,4 @@ git clone git@github.com:iquipsys-positron/iqs-clients-dataprofiles-node
 git clone git@github.com:iquipsys-positron/iqs-clients-deviceprofiles-node
 git clone git@github.com:iquipsys-positron/iqs-clients-zones-node
 git clone git@github.com:iquipsys-positron/iqs-clients-eventrules-node
-git clone git@github.com:iquipsys-positron/iqs-clients-resoluitions-node
+git clone git@github.com:iquipsys-positron/iqs-clients-resolutions-node
