@@ -15,6 +15,9 @@ git clone git@github.com:iquipsys-positron/iqs-services-shifts-node
 git clone git@github.com:iquipsys-positron/iqs-services-emergencyplans-node
 git clone git@github.com:iquipsys-positron/iqs-services-locations-node
 git clone git@github.com:iquipsys-positron/iqs-services-gateways-node
+git clone git@github.com:iquipsys-positron/iqs-services-eventtemplates-node
+git clone git@github.com:iquipsys-positron/iqs-services-agreements-node
+git clone git@github.com:iquipsys-positron/iqs-services-rosters-node
 
 git clone git@github.com:iquipsys-positron/iqs-clients-devices-node
 git clone git@github.com:iquipsys-positron/iqs-clients-controlobjects-node
@@ -29,3 +32,6 @@ git clone git@github.com:iquipsys-positron/iqs-clients-shifts-node
 git clone git@github.com:iquipsys-positron/iqs-clients-emergencyplans-node
 git clone git@github.com:iquipsys-positron/iqs-clients-locations-node
 git clone git@github.com:iquipsys-positron/iqs-clients-gateways-node
+git clone git@github.com:iquipsys-positron/iqs-clients-eventtemplates-node
+git clone git@github.com:iquipsys-positron/iqs-clients-agreements-node
+git clone git@github.com:iquipsys-positron/iqs-clients-rosters-node
