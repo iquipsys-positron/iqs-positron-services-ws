@@ -1,6 +1,7 @@
 #!/usr/local/bin/pwsh
 
 git clone git@github.com:iquipsys-positron/iqs-libs-protocols-node
+git clone git@github.com:iquipsys-positron/iqs-clients-statistics-node
 
 git clone git@github.com:iquipsys-positron/iqs-services-devices-node
 git clone git@github.com:iquipsys-positron/iqs-services-controlobjects-node
@@ -18,6 +19,14 @@ git clone git@github.com:iquipsys-positron/iqs-services-gateways-node
 git clone git@github.com:iquipsys-positron/iqs-services-eventtemplates-node
 git clone git@github.com:iquipsys-positron/iqs-services-agreements-node
 git clone git@github.com:iquipsys-positron/iqs-services-rosters-node
+git clone git@github.com:iquipsys-positron/iqs-services-attendance-node
+git clone git@github.com:iquipsys-positron/iqs-services-objectstates-node
+git clone git@github.com:iquipsys-positron/iqs-services-currobjectstates-node
+git clone git@github.com:iquipsys-positron/iqs-services-currdevicestates-node
+git clone git@github.com:iquipsys-positron/iqs-services-opevents-node
+git clone git@github.com:iquipsys-positron/iqs-services-incidents-node
+git clone git@github.com:iquipsys-positron/iqs-services-signals-node
+git clone git@github.com:iquipsys-positron/iqs-services-corrections-node
 
 git clone git@github.com:iquipsys-positron/iqs-clients-devices-node
 git clone git@github.com:iquipsys-positron/iqs-clients-controlobjects-node
@@ -35,3 +44,11 @@ git clone git@github.com:iquipsys-positron/iqs-clients-gateways-node
 git clone git@github.com:iquipsys-positron/iqs-clients-eventtemplates-node
 git clone git@github.com:iquipsys-positron/iqs-clients-agreements-node
 git clone git@github.com:iquipsys-positron/iqs-clients-rosters-node
+git clone git@github.com:iquipsys-positron/iqs-clients-attendance-node
+git clone git@github.com:iquipsys-positron/iqs-clients-objectstates-node
+git clone git@github.com:iquipsys-positron/iqs-clients-currobjectstates-node
+git clone git@github.com:iquipsys-positron/iqs-clients-currdevicestates-node
+git clone git@github.com:iquipsys-positron/iqs-clients-opevents-node
+git clone git@github.com:iquipsys-positron/iqs-clients-incidents-node
+git clone git@github.com:iquipsys-positron/iqs-clients-signals-node
+git clone git@github.com:iquipsys-positron/iqs-clients-corrections-node
