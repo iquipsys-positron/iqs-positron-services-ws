@@ -1,5 +1,6 @@
 #!/usr/local/bin/pwsh
 
+git clone git@github.com:iquipsys-positron/iqs-devenv
 git clone git@github.com:iquipsys-positron/iqs-libs-protocols-node
 git clone git@github.com:iquipsys-positron/iqs-clients-statistics-node
 git clone git@github.com:iquipsys-positron/iqs-facades-public-node
@@ -62,3 +63,4 @@ git clone git@github.com:iquipsys-positron/iqs-clients-corrections-node
 git clone git@github.com:iquipsys-positron/iqs-clients-stateupdates-node
 git clone git@github.com:iquipsys-positron/iqs-clients-eventgeneration-node
 git clone git@github.com:iquipsys-positron/iqs-clients-mqttgateway-node
+git clone git@github.com:iquipsys-positron/iqs-clients-restgateway-node
