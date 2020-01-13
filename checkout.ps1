@@ -2,6 +2,7 @@
 
 git clone git@github.com:iquipsys-positron/iqs-libs-protocols-node
 git clone git@github.com:iquipsys-positron/iqs-clients-statistics-node
+git clone git@github.com:iquipsys-positron/iqs-facades-public-node
 
 git clone git@github.com:iquipsys-positron/iqs-services-devices-node
 git clone git@github.com:iquipsys-positron/iqs-services-controlobjects-node
@@ -27,6 +28,12 @@ git clone git@github.com:iquipsys-positron/iqs-services-opevents-node
 git clone git@github.com:iquipsys-positron/iqs-services-incidents-node
 git clone git@github.com:iquipsys-positron/iqs-services-signals-node
 git clone git@github.com:iquipsys-positron/iqs-services-corrections-node
+git clone git@github.com:iquipsys-positron/iqs-services-eventgeneration-node
+git clone git@github.com:iquipsys-positron/iqs-services-stateupdates-node
+git clone git@github.com:iquipsys-positron/iqs-services-eventgeneration-node
+git clone git@github.com:iquipsys-positron/iqs-services-mqttgateway-node
+git clone git@github.com:iquipsys-positron/iqs-services-restgateway-node
+git clone git@github.com:iquipsys-positron/iqs-services-teltonikagateway-node
 
 git clone git@github.com:iquipsys-positron/iqs-clients-devices-node
 git clone git@github.com:iquipsys-positron/iqs-clients-controlobjects-node
@@ -52,3 +59,6 @@ git clone git@github.com:iquipsys-positron/iqs-clients-opevents-node
 git clone git@github.com:iquipsys-positron/iqs-clients-incidents-node
 git clone git@github.com:iquipsys-positron/iqs-clients-signals-node
 git clone git@github.com:iquipsys-positron/iqs-clients-corrections-node
+git clone git@github.com:iquipsys-positron/iqs-clients-stateupdates-node
+git clone git@github.com:iquipsys-positron/iqs-clients-eventgeneration-node
+git clone git@github.com:iquipsys-positron/iqs-clients-mqttgateway-node
