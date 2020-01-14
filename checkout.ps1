@@ -65,7 +65,7 @@ git clone git@github.com:iquipsys-positron/iqs-clients-stateupdates-node
 git clone git@github.com:iquipsys-positron/iqs-clients-eventgeneration-node
 git clone git@github.com:iquipsys-positron/iqs-clients-mqttgateway-node
 git clone git@github.com:iquipsys-positron/iqs-clients-restgateway-node
-git clone git@github.com:iquipsys-positron/iqs-services-cloudwatch-node
+git clone git@github.com:iquipsys-positron/iqs-clients-cloudwatch-node
 
 git clone git@github.com:iquipsys-positron/iqs-bundles-configuration-node
 git clone git@github.com:iquipsys-positron/iqs-bundles-system-node
