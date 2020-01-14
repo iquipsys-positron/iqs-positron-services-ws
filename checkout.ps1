@@ -35,6 +35,7 @@ git clone git@github.com:iquipsys-positron/iqs-services-eventgeneration-node
 git clone git@github.com:iquipsys-positron/iqs-services-mqttgateway-node
 git clone git@github.com:iquipsys-positron/iqs-services-restgateway-node
 git clone git@github.com:iquipsys-positron/iqs-services-teltonikagateway-node
+git clone git@github.com:iquipsys-positron/iqs-services-cloudwatch-node
 
 git clone git@github.com:iquipsys-positron/iqs-clients-devices-node
 git clone git@github.com:iquipsys-positron/iqs-clients-controlobjects-node
@@ -64,3 +65,17 @@ git clone git@github.com:iquipsys-positron/iqs-clients-stateupdates-node
 git clone git@github.com:iquipsys-positron/iqs-clients-eventgeneration-node
 git clone git@github.com:iquipsys-positron/iqs-clients-mqttgateway-node
 git clone git@github.com:iquipsys-positron/iqs-clients-restgateway-node
+git clone git@github.com:iquipsys-positron/iqs-services-cloudwatch-node
+
+git clone git@github.com:iquipsys-positron/iqs-bundles-configuration-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-system-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-gateways-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-management-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-processing-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-history-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-infrastructure-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-users-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-content-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-support-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-ecommerce-node
+git clone git@github.com:iquipsys-positron/iqs-bundles-facade-node
