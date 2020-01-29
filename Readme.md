@@ -2,8 +2,8 @@
 
 ## Overview
 
-iQuipsys Positron is an open-source IoT platform for Industrial Automation.
-It is an extensible and production ready solution that comes with communication,
+iQuipsys Positron is an open-source IoT solution for Industrial Automation.
+It is an extensible and production ready system that comes with communication,
 data storage and processing, configuration, administration and end-user tools.
 To learn more about iQuipsys Positron look at https://github.com/iquipsys-positron/iqs-positron
 
@@ -14,10 +14,10 @@ iQuipsys Positron backend: microservices, client SDKs, microservice groups (pack
 
 1. Check out the workspace from GitHub
 
-`# git clone git clone git@github.com:iquipsys-positron/iqs-positron-services-ps`
+`# git clone git clone git@github.com:iquipsys-positron/iqs-positron-services-ws`
 
 2. Check out backend components
-`# cd iqs-positron-services-ps`
+`# cd iqs-positron-services-ws`
 `# checkout.ps1`
 
 # Acknowledgements
